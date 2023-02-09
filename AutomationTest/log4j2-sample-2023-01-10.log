@@ -1,0 +1,7 @@
+[INFO ] 2023-01-10 11:11:41.009 [main] Log - Opening N11 Website.
+[INFO ] 2023-01-10 11:14:32.949 [main] Log - Opening N11 Website.
+[INFO ] 2023-01-10 11:16:28.298 [main] Log - I am in onStart method Test
+[INFO ] 2023-01-10 11:16:34.026 [main] Log - startHomePage test is starting.
+[INFO ] 2023-01-10 11:16:34.439 [main] Log - Opening N11 Website.
+[INFO ] 2023-01-10 11:17:20.126 [main] Log - startHomePage test is succeed.
+[INFO ] 2023-01-10 11:17:21.384 [main] Log - I am in onFinish method Test
